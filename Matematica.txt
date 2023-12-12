@@ -1,0 +1,192 @@
+Sites :
+https://quizdomilhao.com.br/
+
+Matemática : Assuntos 
+
+Ângulo = 2
+Capacidade
+História
+Losango
+Matriz
+Regra de 3 Composta 
+Triângulo = 3x 
+
+- Matemático grego do século III ?
+História
+
+- Quantos lados iguais possui um triangulo isosceles ?
+
+- Quantos litros equivalem a 10 dm³ ?
+Capacidade
+
+- Seis pessoas comem 6 biscoitos em seis minutos. Quantas pessoas comerão 80 biscoitos em 48 minutos ?
+Regra de 3 Composta
+
+
+Respostas :
+
+- 
+Século : 
+I a.C. = 1 a.C. até 100 a.C.
+
+I 1 = 1 até 100
+II 2 = 101 até 200
+V 5 = 401 até 500
+X 10 = 901 até 1000
+XV 15 = 1401 até 1500
+XXI 21 = 2001 até 2100
+
+Dica :
+
+Século XVIII = O número do século é onde termina ele, século 18 termina em 1800 e começa 100 anos antes, ou seja em 1701
+
+Ano 1540 = É só somar 1 ao número, logo 15 + 1 = 16, logo ano 1540 é Séc XVI 
+630 d.C. = 6 + 1 é 7, logo século VII d.C.
+
+Pitágoras = Grego, séc V a.C
+Descartes = Francês, séc XVII
+Diofante = Grego, séc 3 ( 201 )
+Gauss = Alemã, séc 18 ( 1777 ) 
+- 
+
+Ponto de encontro das bissetrizer de um triângulo ?
+Incentro
+
+"O circuncentro é definido pelo encontro das mediatrizes, ou seja, pela intersecção entre elas. "
+
+"Ortocentro
+O ortocentro é a intersecção das alturas relativas aos três vértices, ou seja, é ponto de encontro entre todas as alturas de um triângulo."
+
+"O baricentro é dado pela intersecção das três medianas de um triângulo, isto é, pelo ponto de encontro das três medianas,"
+
+https://brasilescola.uol.com.br/matematica/pontos-notaveis-de-um-triangulo.htm
+
+https://www.todamateria.com.br/bissetriz/#:~:text=O%20ponto%20de%20encontro%20das,representa%20o%20centro%20da%20circunfer%C3%AAncia.
+
+-
+Qual a soma, em radianos, dos ângulos internos de um pentágono?
+3pi
+
+Fórmula dos Ângulos Internos :
+( n - 2 ).180
+
+Pentágono = 5 lados
+Logo : ( 5 - 2 ). 180
+       3 x 180 
+       540
+
+Pi = Grau Radiano 
+pi/2 =  90°
+1 pi = 180° 
+2 pi = 360°
+3 pi = 540°
+
+https://pt.khanacademy.org/math/geometry-home/geometry-shapes/angles-with-polygons/v/sum-of-interior-angles-of-a-polygon#:~:text=Por%20exemplo%2C%20um%20pent%C3%A1gono%20tem,x%20180%C2%B0%20%3D%20540%C2%B0.
+
+https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-angular-movement/a/angles-and-units#:~:text=180%20graus%20%3D%20PI%20radianos%2C%20360,PI%2F2%20radianos%2C%20etc.
+
+-
+
+qual é o maior valor possível para o seno de um ângulo
+1
+Menor é -1 
+Vale para cosseno também
+
+https://www.educamaisbrasil.com.br/enem/matematica/seno
+
+-
+
+Qualquer um dos lados que formam o ângulo reto em um triângulo retângulo
+Catetos
+
+O triângulo retângulo é um polígono que possui dois ângulos agudo ( catetos) e um ângulo reto ( hipotenusa ). 
+-
+
+quantos lados iguais possui um triangulo isosceles ? 2 
+
+Classificação dos Triângulos :
+
+Ângulos = Acutãngulo ( agudo ), Retângulo ( Reto ) e Obtusângulo ( obtuso )
+
+Lados = Equilátero ( iguais ), isósceles ( 2 lados iguais ) e escaleno ( todos diferentes )
+-
+
+1 Litro = 1.000 mililitro (ml )
+
+km hm dam m dm cm mm 
+          1  0 = 1 dm  
+          1 00 = 1 dm²
+          1000 = 1 dm³ 
+
+Se 1 dm³ cabe 1 litro, então 10 dm³ cabe 10 litros
+
+2- Pes Bis Min 
+    6   6    6
+    X   80  48
+
+x.6.48 = 6.80.6
+288x = 2880
+x = 2880
+    288
+x = 10
+
+-
+
+que matriz é formada pelos coeficientes das incógnitas de uma coluna formada pelos termos indepdentes das equações do sistema ?
+
+Incompleta
+
+Sistema :
+2x + 3y - z = 0
+4x + y + z = 7
+-2x + y + z = 4
+
+Matriz incompleta :
+    [ 2 3 -1 ]
+A = [ 4 1 1 ]
+    [ -2 1 1 ]
+
+https://wp.ufpel.edu.br/nucleomatceng/files/2012/11/Sistemas-Lineares.pdf
+
+https://www.uel.br/projetos/matessencial/basico/medio/sistemas.html#:~:text=Matriz%20Aumentada%20do%20sistema%3A%20Formada,e%20tamb%C3%A9m%20pelos%20termos%20independentes.
+
+-
+
+Se o seno de um ângulo é igual ao cosseno de outro, quanto dá a soma desses dois ângulos, em graus
+90
+
+/ = sobre 
+
+Seno = Cateto Oposto     / Hipotenusa 
+
+Cosseno = Cateto Adjancente / Hipotenusa
+
+Seno de 30 = 1/2 ou 0,5
+Cosseno de 60 = 1/2 ou 0,5
+0,5 + 0,5 = 1
+
+ou 
+
+Seno    de 45 = R2/2 
+Cosseno de 45 = R2/2
+
+ou 
+
+Seno de 60 = R3/2 ou 0,8660
+Cosseno de 30 = R3/2 ou 0,8660
+
+R = raiz
+Ângulo   ! 0 !  30  ! 45   ! 60   ! 90
+Seno     ! 0 !  1/2 ! R2/2 ! R3/2 ! 1
+Cosseno  ! 1 ! R3/2 ! R2/2 !  1/2 ! 0
+Tangente ! 0 ! R3/3 !   1  !   R3 ! Infinito
+
+https://www.educamaisbrasil.com.br/enem/matematica/tabela-trigonometrica
+
+-
+um losango é um paralelogramo que tem quantos lados iguais ?
+4 Balão
+
+https://mundoeducacao.uol.com.br/matematica/paralelogramos.htm
+
+----------------------
